@@ -14,6 +14,7 @@ public class Practice {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.com/");
 		driver.quit();
+		System.out.println("welcome");
 	}
 
 }
