@@ -15,6 +15,7 @@ public class Practice {
 		driver.get("https://www.google.com/");
 		driver.quit();
 		System.out.println("welcome");
+		System.out.println("committed");
 	}
 
 }
