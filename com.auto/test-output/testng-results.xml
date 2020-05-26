@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8781" started-at="2020-05-11T09:26:58 IST" finished-at="2020-05-11T09:27:07 IST">
+  <suite name="Suite" duration-ms="6157" started-at="2020-05-26T13:13:32 IST" finished-at="2020-05-26T13:13:38 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8781" started-at="2020-05-11T09:26:58 IST" finished-at="2020-05-11T09:27:07 IST">
+    <test name="Test" duration-ms="6157" started-at="2020-05-26T13:13:32 IST" finished-at="2020-05-26T13:13:38 IST">
       <class name="com.auto.script.Practice">
-        <test-method status="PASS" signature="Demo()[pri:0, instance:com.auto.script.Practice@3224f60b]" name="Demo" duration-ms="8754" started-at="2020-05-11T09:26:58 IST" finished-at="2020-05-11T09:27:07 IST">
+        <test-method status="PASS" signature="Demo()[pri:0, instance:com.auto.script.Practice@3224f60b]" name="Demo" duration-ms="6130" started-at="2020-05-26T13:13:32 IST" finished-at="2020-05-26T13:13:38 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Demo -->
       </class> <!-- com.auto.script.Practice -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
